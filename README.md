@@ -8,3 +8,4 @@ Def:
 
 Commands:
 brownie init src
+brownie compile
